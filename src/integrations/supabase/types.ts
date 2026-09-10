@@ -125,6 +125,8 @@ export type Database = {
         Row: {
           available: boolean
           compatibility: string
+          cover_source_url: string
+          cover_url: string
           created_at: string
           currency: string
           description: string
@@ -133,15 +135,19 @@ export type Database = {
           genre: string
           id: string
           image_key: string
+          listed: boolean
           max_quantity: number
           platform: string
           price_minor: number
           sku: string
+          source_url: string
           title: string
         }
         Insert: {
           available?: boolean
           compatibility?: string
+          cover_source_url?: string
+          cover_url?: string
           created_at?: string
           currency?: string
           description: string
@@ -150,15 +156,19 @@ export type Database = {
           genre: string
           id?: string
           image_key?: string
+          listed?: boolean
           max_quantity?: number
           platform: string
           price_minor: number
           sku: string
+          source_url?: string
           title: string
         }
         Update: {
           available?: boolean
           compatibility?: string
+          cover_source_url?: string
+          cover_url?: string
           created_at?: string
           currency?: string
           description?: string
@@ -167,10 +177,12 @@ export type Database = {
           genre?: string
           id?: string
           image_key?: string
+          listed?: boolean
           max_quantity?: number
           platform?: string
           price_minor?: number
           sku?: string
+          source_url?: string
           title?: string
         }
         Relationships: []

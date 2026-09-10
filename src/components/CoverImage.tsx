@@ -4,11 +4,11 @@ import { cn } from "@/lib/utils";
 
 type Props = {
   /** Per-product cover artwork URL. */
-  coverUrl?: string | null;
+  coverUrl?: string | null | undefined;
   title: string;
-  platformName?: string;
-  className?: string;
-  priority?: boolean;
+  platformName?: string | undefined;
+  className?: string | undefined;
+  priority?: boolean | undefined;
 };
 
 /**

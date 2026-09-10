@@ -7,7 +7,6 @@ import { ProductCard } from "@/components/ProductCard";
 import { ErrorBlock } from "@/components/StateBlocks";
 import { PLATFORMS, STORE_TAGLINE, formatPrice, SHIPPING_FEE_MINOR } from "@/config/store";
 import { productsQueryOptions } from "@/lib/products-query";
-import { coverFor } from "@/lib/catalogue";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -36,7 +35,10 @@ export const Route = createFileRoute("/")({
 
 function Home() {
   const { data: products } = useSuspenseQuery(productsQueryOptions);
-  const featured = products.filter((p) => p.featured).slice(0, 8);
+  // Featured selection spans all three platforms.
+  const featured = ["ps5", "xbox", "pc"]
+    .flatMap((platform) => products.filter((p) => p.featured && p.platform === platform).slice(0, 3))
+    .slice(0, 9);
 
   return (
     <div>
@@ -72,8 +74,10 @@ function Home() {
         </h2>
         <div className="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {PLATFORMS.map((platform) => {
-            const sample = products.find((p) => p.platform === platform.id);
-            const art = sample ? coverFor(sample.image_key) : undefined;
+            const sample = products.find(
+              (p) => p.platform === platform.id && p.featured && p.cover_url,
+            );
+            const art = sample?.cover_url;
             return (
               <Link
                 key={platform.id}

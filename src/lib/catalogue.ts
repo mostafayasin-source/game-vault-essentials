@@ -1,11 +1,3 @@
-import coverAction from "@/assets/cover-action.jpg";
-import coverAdventure from "@/assets/cover-adventure.jpg";
-import coverHorror from "@/assets/cover-horror.jpg";
-import coverRacing from "@/assets/cover-racing.jpg";
-import coverRpg from "@/assets/cover-rpg.jpg";
-import coverShooter from "@/assets/cover-shooter.jpg";
-import coverSports from "@/assets/cover-sports.jpg";
-import coverStrategy from "@/assets/cover-strategy.jpg";
 import type { PlatformId } from "@/config/store";
 
 export type ProductFormat = "physical" | "digital";
@@ -16,7 +8,12 @@ export type Product = {
   platform: PlatformId;
   format: ProductFormat;
   price_minor: number;
-  image_key: string;
+  /** CDN path to this exact game's cover artwork. */
+  cover_url: string;
+  /** Where the cover artwork was sourced from (publisher store asset). */
+  cover_source_url: string;
+  /** Official store page the listing was verified against. */
+  source_url: string;
   description: string;
   compatibility: string;
   genre: string;
@@ -24,21 +21,6 @@ export type Product = {
   max_quantity: number;
   featured: boolean;
 };
-
-const COVERS: Record<string, string> = {
-  action: coverAction,
-  adventure: coverAdventure,
-  horror: coverHorror,
-  racing: coverRacing,
-  rpg: coverRpg,
-  shooter: coverShooter,
-  sports: coverSports,
-  strategy: coverStrategy,
-};
-
-export function coverFor(imageKey: string): string | undefined {
-  return COVERS[imageKey];
-}
 
 export const FORMAT_LABEL: Record<ProductFormat, string> = {
   physical: "Physical disc",

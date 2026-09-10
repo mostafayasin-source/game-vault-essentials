@@ -18,7 +18,7 @@ export function ProductCard({ product }: { product: Product }) {
         className="block"
         aria-label={`View ${product.title} for ${product.platform}`}
       >
-        <CoverImage imageKey={product.image_key} title={product.title} className="rounded-none" />
+        <CoverImage coverUrl={product.cover_url} title={product.title} className="rounded-none" />
       </Link>
 
       <div className="flex flex-1 flex-col gap-3 p-4">

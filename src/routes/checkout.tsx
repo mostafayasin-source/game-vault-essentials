@@ -338,7 +338,7 @@ function ReviewGroup({
         {items.map(({ product, quantity, lineTotalMinor }) => (
           <li key={product.sku} className="flex items-center gap-3">
             <div className="w-12 shrink-0">
-              <CoverImage imageKey={product.image_key} title={product.title} />
+              <CoverImage coverUrl={product.cover_url} title={product.title} />
             </div>
             <div className="min-w-0 flex-1">
               <p className="truncate text-sm font-medium">{product.title}</p>

@@ -82,7 +82,12 @@ function ProductPage() {
       </nav>
 
       <div className="grid gap-10 lg:grid-cols-[minmax(0,420px)_1fr]">
-        <CoverImage imageKey={product.image_key} title={product.title} priority />
+        <CoverImage
+          coverUrl={product.cover_url}
+          title={product.title}
+          platformName={platform?.name}
+          priority
+        />
 
         <div>
           <div className="flex flex-wrap gap-2">

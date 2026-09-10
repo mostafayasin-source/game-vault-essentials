@@ -74,7 +74,7 @@ function CartPage() {
                   params={{ sku: product.sku }}
                   className="w-20 shrink-0 sm:w-24"
                 >
-                  <CoverImage imageKey={product.image_key} title={product.title} />
+                  <CoverImage coverUrl={product.cover_url} title={product.title} />
                 </Link>
 
                 <div className="flex min-w-0 flex-1 flex-col gap-2">

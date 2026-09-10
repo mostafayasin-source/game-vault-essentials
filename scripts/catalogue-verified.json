@@ -1,0 +1,2064 @@
+[
+  {
+    "key": "elden-ring",
+    "title": "Elden Ring",
+    "appid": 1245620,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1245620/",
+    "steam_name": "ELDEN RING",
+    "coming_soon": false,
+    "release_date": "24 Feb, 2022",
+    "type": "game",
+    "developers": [
+      "FromSoftware, Inc."
+    ],
+    "publishers": [
+      "FromSoftware, Inc.",
+      "Bandai Namco Entertainment"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1245620/library_600x900.jpg",
+      "bytes": 52021
+    }
+  },
+  {
+    "key": "elden-ring-nightreign",
+    "title": "ELDEN RING NIGHTREIGN",
+    "appid": 2622380,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2622380/",
+    "steam_name": "ELDEN RING NIGHTREIGN",
+    "coming_soon": false,
+    "release_date": "29 May, 2025",
+    "type": "game",
+    "developers": [
+      "FromSoftware, Inc."
+    ],
+    "publishers": [
+      "FromSoftware, Inc.",
+      "Bandai Namco Entertainment"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2622380/library_600x900.jpg",
+      "bytes": 68891
+    }
+  },
+  {
+    "key": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "appid": 1091500,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1091500/",
+    "steam_name": "Cyberpunk 2077",
+    "coming_soon": false,
+    "release_date": "9 Dec, 2020",
+    "type": "game",
+    "developers": [
+      "CD PROJEKT RED"
+    ],
+    "publishers": [
+      "CD PROJEKT RED"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1091500/library_600x900.jpg",
+      "bytes": 54176
+    }
+  },
+  {
+    "key": "witcher-3",
+    "title": "The Witcher 3: Wild Hunt",
+    "appid": 292030,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/292030/",
+    "steam_name": "The Witcher 3: Wild Hunt - Complete Edition",
+    "coming_soon": false,
+    "release_date": "18 May, 2015",
+    "type": "game",
+    "developers": [
+      "CD PROJEKT RED"
+    ],
+    "publishers": [
+      "CD PROJEKT RED"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/292030/library_600x900.jpg",
+      "bytes": 55823
+    }
+  },
+  {
+    "key": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "appid": 1086940,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1086940/",
+    "steam_name": "Baldur's Gate 3",
+    "coming_soon": false,
+    "release_date": "3 Aug, 2023",
+    "type": "game",
+    "developers": [
+      "Larian Studios"
+    ],
+    "publishers": [
+      "Larian Studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1086940/library_600x900.jpg",
+      "bytes": 66971
+    }
+  },
+  {
+    "key": "diablo-iv",
+    "title": "Diablo IV",
+    "appid": 2344520,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Battle.net",
+    "store_url": "https://store.steampowered.com/app/2344520/",
+    "steam_name": "Diablo\u00ae IV",
+    "coming_soon": false,
+    "release_date": "17 Oct, 2023",
+    "type": "game",
+    "developers": [
+      "Blizzard Entertainment, Inc."
+    ],
+    "publishers": [
+      "Blizzard Entertainment, Inc."
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2344520/library_600x900.jpg",
+      "bytes": 56010
+    }
+  },
+  {
+    "key": "hogwarts-legacy",
+    "title": "Hogwarts Legacy",
+    "appid": 990080,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/990080/",
+    "steam_name": "Hogwarts Legacy",
+    "coming_soon": false,
+    "release_date": "10 Feb, 2023",
+    "type": "game",
+    "developers": [
+      "Avalanche Software"
+    ],
+    "publishers": [
+      "Warner Bros. Games"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/990080/library_600x900.jpg",
+      "bytes": 52260
+    }
+  },
+  {
+    "key": "jedi-survivor",
+    "title": "STAR WARS Jedi: Survivor",
+    "appid": 1774580,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1774580/",
+    "steam_name": "STAR WARS Jedi: Survivor\u2122",
+    "coming_soon": false,
+    "release_date": "27 Apr, 2023",
+    "type": "game",
+    "developers": [
+      "Respawn"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1774580/library_600x900.jpg",
+      "bytes": 47106
+    }
+  },
+  {
+    "key": "star-wars-outlaws",
+    "title": "Star Wars Outlaws",
+    "appid": 2842040,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2842040/",
+    "steam_name": "Star Wars Outlaws",
+    "coming_soon": false,
+    "release_date": "21 Nov, 2024",
+    "type": "game",
+    "developers": [
+      "Massive Entertainment \u2013 A Ubisoft Studio"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2842040/library_600x900.jpg",
+      "bytes": 68456
+    }
+  },
+  {
+    "key": "ac-mirage",
+    "title": "Assassin's Creed Mirage",
+    "appid": 3035570,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/3035570/",
+    "steam_name": "Assassin's Creed Mirage",
+    "coming_soon": false,
+    "release_date": "17 Oct, 2024",
+    "type": "game",
+    "developers": [
+      "Ubisoft Bordeaux"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3035570/library_600x900.jpg",
+      "bytes": 58244
+    }
+  },
+  {
+    "key": "ac-shadows",
+    "title": "Assassin's Creed Shadows",
+    "appid": 3159330,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/3159330/",
+    "steam_name": "Assassin\u2019s Creed Shadows",
+    "coming_soon": false,
+    "release_date": "19 Mar, 2025",
+    "type": "game",
+    "developers": [
+      "Ubisoft Quebec",
+      "Ubisoft Belgrade",
+      "Ubisoft Bordeaux",
+      "Ubisoft Bucharest & Craiova",
+      "Ubisoft Chengdu",
+      "Ubisoft Montpellier",
+      "Ubisoft Montreal",
+      "Ubisoft Osaka",
+      "Ubisoft Philippines",
+      "Ubisoft Shanghai",
+      "Ubisoft Singapore",
+      "Ubisoft Sofia",
+      "Ubisoft Ukraine"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3159330/library_600x900.jpg",
+      "bytes": 63617
+    }
+  },
+  {
+    "key": "ac-valhalla",
+    "title": "Assassin's Creed Valhalla",
+    "appid": 2208920,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2208920/",
+    "steam_name": "Assassin's Creed Valhalla",
+    "coming_soon": false,
+    "release_date": "6 Dec, 2022",
+    "type": "game",
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2208920/library_600x900.jpg",
+      "bytes": 60546
+    }
+  },
+  {
+    "key": "re4",
+    "title": "Resident Evil 4",
+    "appid": 2050650,
+    "genre": "Horror",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2050650/",
+    "steam_name": "Resident Evil 4",
+    "coming_soon": false,
+    "release_date": "23 Mar, 2023",
+    "type": "game",
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2050650/library_600x900.jpg",
+      "bytes": 34266
+    }
+  },
+  {
+    "key": "re-village",
+    "title": "Resident Evil Village",
+    "appid": 1196590,
+    "genre": "Horror",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1196590/",
+    "steam_name": "Resident Evil Village",
+    "coming_soon": false,
+    "release_date": "6 May, 2021",
+    "type": "game",
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1196590/library_600x900.jpg",
+      "bytes": 46770
+    }
+  },
+  {
+    "key": "dead-space",
+    "title": "Dead Space",
+    "appid": 1693980,
+    "genre": "Horror",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1693980/",
+    "steam_name": "Dead Space",
+    "coming_soon": false,
+    "release_date": "27 Jan, 2023",
+    "type": "game",
+    "developers": [
+      "Motive"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1693980/library_600x900.jpg",
+      "bytes": 49676
+    }
+  },
+  {
+    "key": "callisto",
+    "title": "The Callisto Protocol",
+    "appid": 1544020,
+    "genre": "Horror",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1544020/",
+    "steam_name": "The Callisto Protocol\u2122",
+    "coming_soon": false,
+    "release_date": "1 Dec, 2022",
+    "type": "game",
+    "developers": [
+      "Striking Distance Studios"
+    ],
+    "publishers": [
+      "KRAFTON, Inc."
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1544020/library_600x900.jpg",
+      "bytes": 42817
+    }
+  },
+  {
+    "key": "silent-hill-2",
+    "title": "SILENT HILL 2",
+    "appid": 2124490,
+    "genre": "Horror",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2124490/",
+    "steam_name": "SILENT HILL 2",
+    "coming_soon": false,
+    "release_date": "7 Oct, 2024",
+    "type": "game",
+    "developers": [
+      "Bloober Team SA"
+    ],
+    "publishers": [
+      "KONAMI"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2124490/library_600x900.jpg",
+      "bytes": 27983
+    }
+  },
+  {
+    "key": "dbd",
+    "title": "Dead by Daylight",
+    "appid": 381210,
+    "genre": "Horror",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/381210/",
+    "steam_name": "Dead by Daylight",
+    "coming_soon": false,
+    "release_date": "14 Jun, 2016",
+    "type": "game",
+    "developers": [
+      "Behaviour Interactive Inc."
+    ],
+    "publishers": [
+      "Behaviour Interactive Inc."
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/381210/library_600x900.jpg",
+      "bytes": 54474
+    }
+  },
+  {
+    "key": "it-takes-two",
+    "title": "It Takes Two",
+    "appid": 1426210,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1426210/",
+    "steam_name": "It Takes Two",
+    "coming_soon": false,
+    "release_date": "25 Mar, 2021",
+    "type": "game",
+    "developers": [
+      "Hazelight Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1426210/library_600x900.jpg",
+      "bytes": 65701
+    }
+  },
+  {
+    "key": "split-fiction",
+    "title": "Split Fiction",
+    "appid": 2001120,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2001120/",
+    "steam_name": "Split Fiction",
+    "coming_soon": false,
+    "release_date": "6 Mar, 2025",
+    "type": "game",
+    "developers": [
+      "Hazelight Studios"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2001120/library_600x900.jpg",
+      "bytes": 77774
+    }
+  },
+  {
+    "key": "forza-horizon-5",
+    "title": "Forza Horizon 5",
+    "appid": 1551360,
+    "genre": "Racing",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1551360/",
+    "steam_name": "Forza Horizon 5",
+    "coming_soon": false,
+    "release_date": "8 Nov, 2021",
+    "type": "game",
+    "developers": [
+      "Playground Games"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1551360/library_600x900.jpg",
+      "bytes": 61398
+    }
+  },
+  {
+    "key": "f1-24",
+    "title": "F1 24",
+    "appid": 2488620,
+    "genre": "Racing",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2488620/",
+    "steam_name": "F1\u00ae 24",
+    "coming_soon": false,
+    "release_date": "31 May, 2024",
+    "type": "game",
+    "developers": [
+      "Codemasters"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2488620/library_600x900.jpg",
+      "bytes": 60872
+    }
+  },
+  {
+    "key": "ea-wrc",
+    "title": "EA SPORTS WRC",
+    "appid": 1849250,
+    "genre": "Racing",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1849250/",
+    "steam_name": "EA SPORTS\u2122 WRC",
+    "coming_soon": false,
+    "release_date": "2 Nov, 2023",
+    "type": "game",
+    "developers": [
+      "Codemasters"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1849250/library_600x900.jpg",
+      "bytes": 65153
+    }
+  },
+  {
+    "key": "nfs-unbound",
+    "title": "Need for Speed Unbound",
+    "appid": 1846380,
+    "genre": "Racing",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1846380/",
+    "steam_name": "Need for Speed\u2122 Unbound",
+    "coming_soon": false,
+    "release_date": "1 Dec, 2022",
+    "type": "game",
+    "developers": [
+      "Criterion Games"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1846380/library_600x900.jpg",
+      "bytes": 88892
+    }
+  },
+  {
+    "key": "acc",
+    "title": "Assetto Corsa Competizione",
+    "appid": 805550,
+    "genre": "Racing",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/805550/",
+    "steam_name": "Assetto Corsa Competizione",
+    "coming_soon": false,
+    "release_date": "29 May, 2019",
+    "type": "game",
+    "developers": [
+      "Kunos Simulazioni"
+    ],
+    "publishers": [
+      "505 Games"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/805550/library_600x900.jpg",
+      "bytes": 49524
+    }
+  },
+  {
+    "key": "ea-fc-25",
+    "title": "EA SPORTS FC 25",
+    "appid": 2669320,
+    "genre": "Sports",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2669320/",
+    "steam_name": "EA SPORTS FC\u2122 25",
+    "coming_soon": false,
+    "release_date": "26 Sep, 2024",
+    "type": "game",
+    "developers": [
+      "EA Canada",
+      "EA Romania"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2669320/library_600x900.jpg",
+      "bytes": 52174
+    }
+  },
+  {
+    "key": "nba-2k25",
+    "title": "NBA 2K25",
+    "appid": 2878980,
+    "genre": "Sports",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2878980/",
+    "steam_name": "NBA 2K25",
+    "coming_soon": false,
+    "release_date": "3 Sep, 2024",
+    "type": "game",
+    "developers": [
+      "Visual Concepts"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2878980/library_600x900.jpg",
+      "bytes": 46931
+    }
+  },
+  {
+    "key": "wwe-2k24",
+    "title": "WWE 2K24",
+    "appid": 2315690,
+    "genre": "Sports",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2315690/",
+    "steam_name": "WWE 2K24",
+    "coming_soon": false,
+    "release_date": "7 Mar, 2024",
+    "type": "game",
+    "developers": [
+      "Visual Concepts"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2315690/library_600x900.jpg",
+      "bytes": 65192
+    }
+  },
+  {
+    "key": "cities-skylines-2",
+    "title": "Cities: Skylines II",
+    "appid": 949230,
+    "genre": "Strategy",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/949230/",
+    "steam_name": "Cities: Skylines II",
+    "coming_soon": false,
+    "release_date": "24 Oct, 2023",
+    "type": "game",
+    "developers": [
+      "Iceflake Studios",
+      "Colossal Order"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/949230/library_600x900.jpg",
+      "bytes": 59797
+    }
+  },
+  {
+    "key": "civ-7",
+    "title": "Sid Meier's Civilization VII",
+    "appid": 1295660,
+    "genre": "Strategy",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1295660/",
+    "steam_name": "Sid Meier's Civilization VII",
+    "coming_soon": false,
+    "release_date": "10 Feb, 2025",
+    "type": "game",
+    "developers": [
+      "Firaxis Games"
+    ],
+    "publishers": [
+      "2K"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1295660/library_600x900.jpg",
+      "bytes": 47745
+    }
+  },
+  {
+    "key": "tww3",
+    "title": "Total War: WARHAMMER III",
+    "appid": 1142710,
+    "genre": "Strategy",
+    "platforms": [
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1142710/",
+    "steam_name": "Total War: WARHAMMER III",
+    "coming_soon": false,
+    "release_date": "16 Feb, 2022",
+    "type": "game",
+    "developers": [
+      "CREATIVE ASSEMBLY",
+      "Feral Interactive"
+    ],
+    "publishers": [
+      "SEGA",
+      "Feral Interactive"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1142710/library_600x900.jpg",
+      "bytes": 67321
+    }
+  },
+  {
+    "key": "aoe4",
+    "title": "Age of Empires IV: Anniversary Edition",
+    "appid": 1466860,
+    "genre": "Strategy",
+    "platforms": [
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1466860/",
+    "steam_name": "Age of Empires IV: Anniversary Edition",
+    "coming_soon": false,
+    "release_date": "28 Oct, 2021",
+    "type": "game",
+    "developers": [
+      "World's Edge",
+      "Relic Entertainment",
+      "Forgotten Empires",
+      "Climax Studios"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1466860/library_600x900.jpg",
+      "bytes": 65719
+    }
+  },
+  {
+    "key": "frostpunk-2",
+    "title": "Frostpunk 2",
+    "appid": 1601580,
+    "genre": "Strategy",
+    "platforms": [
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1601580/",
+    "steam_name": "Frostpunk 2",
+    "coming_soon": false,
+    "release_date": "20 Sep, 2024",
+    "type": "game",
+    "developers": [
+      "11 bit studios"
+    ],
+    "publishers": [
+      "11 bit studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1601580/library_600x900.jpg",
+      "bytes": 36730
+    }
+  },
+  {
+    "key": "stellaris",
+    "title": "Stellaris",
+    "appid": 281990,
+    "genre": "Strategy",
+    "platforms": [
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/281990/",
+    "steam_name": "Stellaris",
+    "coming_soon": false,
+    "release_date": "9 May, 2016",
+    "type": "game",
+    "developers": [
+      "Paradox Development Studio"
+    ],
+    "publishers": [
+      "Paradox Interactive"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/281990/library_600x900.jpg",
+      "bytes": 45188
+    }
+  },
+  {
+    "key": "coh3",
+    "title": "Company of Heroes 3",
+    "appid": 1677280,
+    "genre": "Strategy",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1677280/",
+    "steam_name": "Company of Heroes 3",
+    "coming_soon": false,
+    "release_date": "23 Feb, 2023",
+    "type": "game",
+    "developers": [
+      "Relic Entertainment"
+    ],
+    "publishers": [
+      "Relic Entertainment"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1677280/library_600x900.jpg",
+      "bytes": 48075
+    }
+  },
+  {
+    "key": "helldivers-2",
+    "title": "HELLDIVERS 2",
+    "appid": 553850,
+    "genre": "Shooter",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/553850/",
+    "steam_name": "HELLDIVERS\u2122 2",
+    "coming_soon": false,
+    "release_date": "8 Feb, 2024",
+    "type": "game",
+    "developers": [
+      "Arrowhead Game Studios"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/553850/library_600x900.jpg",
+      "bytes": 66023
+    }
+  },
+  {
+    "key": "bo6",
+    "title": "Call of Duty: Black Ops 6",
+    "appid": 2933620,
+    "genre": "Shooter",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2933620/",
+    "steam_name": "Call of Duty\u00ae",
+    "coming_soon": false,
+    "release_date": "27 Oct, 2022",
+    "type": "game",
+    "developers": [
+      "Treyarch",
+      "Raven Software",
+      "Beenox",
+      "High Moon Studios",
+      "Sledgehammer Games",
+      "Infinity Ward",
+      "Activision Shanghai",
+      "Demonware"
+    ],
+    "publishers": [
+      "Activision"
+    ],
+    "cover": null
+  },
+  {
+    "key": "doom-eternal",
+    "title": "DOOM Eternal",
+    "appid": 782330,
+    "genre": "Shooter",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/782330/",
+    "steam_name": "DOOM Eternal",
+    "coming_soon": false,
+    "release_date": "19 Mar, 2020",
+    "type": "game",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/782330/library_600x900.jpg",
+      "bytes": 85479
+    }
+  },
+  {
+    "key": "doom-dark-ages",
+    "title": "DOOM: The Dark Ages",
+    "appid": 3017860,
+    "genre": "Shooter",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/3017860/",
+    "steam_name": "DOOM: The Dark Ages",
+    "coming_soon": false,
+    "release_date": "14 May, 2025",
+    "type": "game",
+    "developers": [
+      "id Software"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3017860/library_600x900.jpg",
+      "bytes": 76490
+    }
+  },
+  {
+    "key": "bf2042",
+    "title": "Battlefield\u2122 2042",
+    "appid": 1517290,
+    "genre": "Shooter",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1517290/",
+    "steam_name": "Battlefield\u2122 2042",
+    "coming_soon": false,
+    "release_date": "19 Nov, 2021",
+    "type": "game",
+    "developers": [
+      "DICE"
+    ],
+    "publishers": [
+      "Electronic Arts"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1517290/library_600x900.jpg",
+      "bytes": 74473
+    }
+  },
+  {
+    "key": "gow-ragnarok",
+    "title": "God of War Ragnar\u00f6k",
+    "appid": 2322010,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2322010/",
+    "steam_name": "God of War Ragnar\u00f6k",
+    "coming_soon": false,
+    "release_date": "19 Sep, 2024",
+    "type": "game",
+    "developers": [
+      "Santa Monica Studio",
+      "Jetpack Interactive"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2322010/library_600x900.jpg",
+      "bytes": 61062
+    }
+  },
+  {
+    "key": "spider-man-2",
+    "title": "Marvel's Spider-Man 2",
+    "appid": 2651280,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2651280/",
+    "steam_name": "Marvel's Spider-Man 2",
+    "coming_soon": false,
+    "release_date": "30 Jan, 2025",
+    "type": "game",
+    "developers": [
+      "Insomniac Games",
+      "Nixxes Software"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2651280/library_600x900.jpg",
+      "bytes": 42386
+    }
+  },
+  {
+    "key": "ghost-of-tsushima",
+    "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "appid": 2215430,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2215430/",
+    "steam_name": "Ghost of Tsushima DIRECTOR'S CUT",
+    "coming_soon": false,
+    "release_date": "16 May, 2024",
+    "type": "game",
+    "developers": [
+      "Sucker Punch Productions",
+      "Nixxes Software"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2215430/library_600x900.jpg",
+      "bytes": 50306
+    }
+  },
+  {
+    "key": "horizon-fw",
+    "title": "Horizon Forbidden West Complete Edition",
+    "appid": 2420110,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2420110/",
+    "steam_name": "Horizon Forbidden West\u2122 Complete Edition",
+    "coming_soon": false,
+    "release_date": "21 Mar, 2024",
+    "type": "game",
+    "developers": [
+      "Guerrilla",
+      "Nixxes Software"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2420110/library_600x900.jpg",
+      "bytes": 77016
+    }
+  },
+  {
+    "key": "tlou-1",
+    "title": "The Last of Us Part I",
+    "appid": 1888930,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1888930/",
+    "steam_name": "The Last of Us\u2122 Part I",
+    "coming_soon": false,
+    "release_date": "28 Mar, 2023",
+    "type": "game",
+    "developers": [
+      "Naughty Dog LLC",
+      "Iron Galaxy Studios"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1888930/library_600x900.jpg",
+      "bytes": 43620
+    }
+  },
+  {
+    "key": "returnal",
+    "title": "Returnal",
+    "appid": 1649240,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1649240/",
+    "steam_name": "Returnal\u2122",
+    "coming_soon": false,
+    "release_date": "15 Feb, 2023",
+    "type": "game",
+    "developers": [
+      "Housemarque",
+      "Climax Studios"
+    ],
+    "publishers": [
+      "PlayStation Publishing LLC"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1649240/library_600x900.jpg",
+      "bytes": 65533
+    }
+  },
+  {
+    "key": "sea-of-thieves",
+    "title": "Sea of Thieves",
+    "appid": 1172620,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1172620/",
+    "steam_name": "Sea of Thieves: 2026 Edition",
+    "coming_soon": false,
+    "release_date": "3 Jun, 2020",
+    "type": "game",
+    "developers": [
+      "Rare Ltd"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1172620/library_600x900.jpg",
+      "bytes": 46899
+    }
+  },
+  {
+    "key": "forza-motorsport",
+    "title": "Forza Motorsport",
+    "appid": 2440510,
+    "genre": "Racing",
+    "platforms": [
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2440510/",
+    "steam_name": "Forza Motorsport",
+    "coming_soon": false,
+    "release_date": "9 Oct, 2023",
+    "type": "game",
+    "developers": [
+      "Turn 10"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2440510/library_600x900.jpg",
+      "bytes": 39233
+    }
+  },
+  {
+    "key": "halo-infinite",
+    "title": "Halo Infinite",
+    "appid": 1240440,
+    "genre": "Shooter",
+    "platforms": [
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1240440/",
+    "steam_name": "Halo Infinite",
+    "coming_soon": false,
+    "release_date": "15 Nov, 2021",
+    "type": "game",
+    "developers": [
+      "343 Industries"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1240440/library_600x900.jpg",
+      "bytes": 66595
+    }
+  },
+  {
+    "key": "starfield",
+    "title": "Starfield",
+    "appid": 1716740,
+    "genre": "RPG",
+    "platforms": [
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1716740/",
+    "steam_name": "Starfield",
+    "coming_soon": false,
+    "release_date": "5 Sep, 2023",
+    "type": "game",
+    "developers": [
+      "Bethesda Game Studios"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1716740/library_600x900.jpg",
+      "bytes": 55173
+    }
+  },
+  {
+    "key": "grounded",
+    "title": "Grounded",
+    "appid": 962130,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/962130/",
+    "steam_name": "Grounded",
+    "coming_soon": false,
+    "release_date": "27 Sep, 2022",
+    "type": "game",
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/962130/library_600x900.jpg",
+      "bytes": 70044
+    }
+  },
+  {
+    "key": "monster-hunter-wilds",
+    "title": "Monster Hunter Wilds",
+    "appid": 2246340,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2246340/",
+    "steam_name": "Monster Hunter Wilds",
+    "coming_soon": false,
+    "release_date": "27 Feb, 2025",
+    "type": "game",
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2246340/library_600x900.jpg",
+      "bytes": 79967
+    }
+  },
+  {
+    "key": "ff7-rebirth",
+    "title": "FINAL FANTASY VII REBIRTH",
+    "appid": 2909400,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2909400/",
+    "steam_name": "FINAL FANTASY VII REBIRTH",
+    "coming_soon": false,
+    "release_date": "23 Jan, 2025",
+    "type": "game",
+    "developers": [
+      "Square Enix"
+    ],
+    "publishers": [
+      "Square Enix"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2909400/library_600x900.jpg",
+      "bytes": 69183
+    }
+  },
+  {
+    "key": "kcd2",
+    "title": "Kingdom Come: Deliverance II",
+    "appid": 1771300,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1771300/",
+    "steam_name": "Kingdom Come: Deliverance II",
+    "coming_soon": false,
+    "release_date": "4 Feb, 2025",
+    "type": "game",
+    "developers": [
+      "Warhorse Studios"
+    ],
+    "publishers": [
+      "Deep Silver"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1771300/library_600x900.jpg",
+      "bytes": 56267
+    }
+  },
+  {
+    "key": "avowed",
+    "title": "Avowed",
+    "appid": 2457220,
+    "genre": "RPG",
+    "platforms": [
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2457220/",
+    "steam_name": "Avowed",
+    "coming_soon": false,
+    "release_date": "18 Feb, 2025",
+    "type": "game",
+    "developers": [
+      "Obsidian Entertainment"
+    ],
+    "publishers": [
+      "Xbox Game Studios"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2457220/library_600x900.jpg",
+      "bytes": 52775
+    }
+  },
+  {
+    "key": "metaphor",
+    "title": "Metaphor: ReFantazio",
+    "appid": 2679460,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2679460/",
+    "steam_name": "Metaphor: ReFantazio",
+    "coming_soon": false,
+    "release_date": "10 Oct, 2024",
+    "type": "game",
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2679460/library_600x900.jpg",
+      "bytes": 85761
+    }
+  },
+  {
+    "key": "persona-3-reload",
+    "title": "Persona 3 Reload",
+    "appid": 2161700,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2161700/",
+    "steam_name": "Persona 3 Reload",
+    "coming_soon": false,
+    "release_date": "1 Feb, 2024",
+    "type": "game",
+    "developers": [
+      "ATLUS"
+    ],
+    "publishers": [
+      "SEGA"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2161700/library_600x900.jpg",
+      "bytes": 80788
+    }
+  },
+  {
+    "key": "lies-of-p",
+    "title": "Lies of P",
+    "appid": 1627720,
+    "genre": "RPG",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1627720/",
+    "steam_name": "Lies of P",
+    "coming_soon": false,
+    "release_date": "18 Sep, 2023",
+    "type": "game",
+    "developers": [
+      "NEOWIZ"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1627720/library_600x900.jpg",
+      "bytes": 51277
+    }
+  },
+  {
+    "key": "black-myth-wukong",
+    "title": "Black Myth: Wukong",
+    "appid": 2358720,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2358720/",
+    "steam_name": "Black Myth: Wukong",
+    "coming_soon": false,
+    "release_date": "19 Aug, 2024",
+    "type": "game",
+    "developers": [
+      "Game Science"
+    ],
+    "publishers": [
+      "Game Science"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2358720/library_600x900.jpg",
+      "bytes": 52678
+    }
+  },
+  {
+    "key": "stalker-2",
+    "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "appid": 1643320,
+    "genre": "Shooter",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1643320/",
+    "steam_name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "coming_soon": false,
+    "release_date": "20 Nov, 2024",
+    "type": "game",
+    "developers": [
+      "GSC Game World"
+    ],
+    "publishers": [
+      "GSC Game World (worldwide)",
+      "SEGA (Japan)",
+      "4Divinity (China and South East Asia)"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1643320/library_600x900.jpg",
+      "bytes": 51671
+    }
+  },
+  {
+    "key": "indiana-jones",
+    "title": "Indiana Jones and the Great Circle",
+    "appid": 2677660,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2677660/",
+    "steam_name": "Indiana Jones and the Great Circle",
+    "coming_soon": false,
+    "release_date": "8 Dec, 2024",
+    "type": "game",
+    "developers": [
+      "MachineGames"
+    ],
+    "publishers": [
+      "Bethesda Softworks"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2677660/library_600x900.jpg",
+      "bytes": 84915
+    }
+  },
+  {
+    "key": "gta-v",
+    "title": "Grand Theft Auto V",
+    "appid": 271590,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/271590/",
+    "steam_name": "Grand Theft Auto V Legacy",
+    "coming_soon": false,
+    "release_date": "13 Apr, 2015",
+    "type": "game",
+    "developers": [
+      "Rockstar North"
+    ],
+    "publishers": [
+      "Rockstar Games"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/271590/library_600x900.jpg",
+      "bytes": 81961
+    }
+  },
+  {
+    "key": "mk1",
+    "title": "Mortal Kombat 1",
+    "appid": 1971870,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1971870/",
+    "steam_name": "Mortal Kombat 1",
+    "coming_soon": false,
+    "release_date": "19 Sep, 2023",
+    "type": "game",
+    "developers": [
+      "NetherRealm Studios",
+      "QLOC"
+    ],
+    "publishers": [
+      "Warner Bros. Games"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1971870/library_600x900.jpg",
+      "bytes": 56591
+    }
+  },
+  {
+    "key": "tekken-8",
+    "title": "TEKKEN 8",
+    "appid": 1778820,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1778820/",
+    "steam_name": "TEKKEN 8",
+    "coming_soon": false,
+    "release_date": "25 Jan, 2024",
+    "type": "game",
+    "developers": [
+      "Bandai Namco Studios Inc."
+    ],
+    "publishers": [
+      "Bandai Namco Entertainment"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1778820/library_600x900.jpg",
+      "bytes": 62008
+    }
+  },
+  {
+    "key": "sf6",
+    "title": "Street Fighter 6",
+    "appid": 1364780,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1364780/",
+    "steam_name": "Street Fighter\u2122 6",
+    "coming_soon": false,
+    "release_date": "1 Jun, 2023",
+    "type": "game",
+    "developers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "publishers": [
+      "CAPCOM Co., Ltd."
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1364780/library_600x900.jpg",
+      "bytes": 80493
+    }
+  },
+  {
+    "key": "no-mans-sky",
+    "title": "No Man's Sky",
+    "appid": 275850,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/275850/",
+    "steam_name": "No Man's Sky",
+    "coming_soon": false,
+    "release_date": "12 Aug, 2016",
+    "type": "game",
+    "developers": [
+      "Hello Games"
+    ],
+    "publishers": [
+      "Hello Games"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/275850/library_600x900.jpg",
+      "bytes": 71845
+    }
+  },
+  {
+    "key": "hollow-knight-silksong",
+    "title": "Hollow Knight: Silksong",
+    "appid": 1030300,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1030300/",
+    "steam_name": "Hollow Knight: Silksong",
+    "coming_soon": false,
+    "release_date": "4 Sep, 2025",
+    "type": "game",
+    "developers": [
+      "Team Cherry"
+    ],
+    "publishers": [
+      "Team Cherry"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1030300/library_600x900.jpg",
+      "bytes": 56810
+    }
+  },
+  {
+    "key": "balatro",
+    "title": "Balatro",
+    "appid": 2379780,
+    "genre": "Strategy",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/2379780/",
+    "steam_name": "Balatro",
+    "coming_soon": false,
+    "release_date": "20 Feb, 2024",
+    "type": "game",
+    "developers": [
+      "LocalThunk"
+    ],
+    "publishers": [
+      "Playstack"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2379780/library_600x900.jpg",
+      "bytes": 70733
+    }
+  },
+  {
+    "key": "cult-of-the-lamb",
+    "title": "Cult of the Lamb",
+    "appid": 1313140,
+    "genre": "Action",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1313140/",
+    "steam_name": "Cult of the Lamb",
+    "coming_soon": false,
+    "release_date": "11 Aug, 2022",
+    "type": "game",
+    "developers": [
+      "Massive Monster"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1313140/library_600x900.jpg",
+      "bytes": 94517
+    }
+  },
+  {
+    "key": "palworld",
+    "title": "Palworld",
+    "appid": 1623730,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1623730/",
+    "steam_name": "Palworld",
+    "coming_soon": false,
+    "release_date": "9 Jul, 2026",
+    "type": "game",
+    "developers": [
+      "Pocketpair"
+    ],
+    "publishers": [
+      "Pocketpair"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1623730/library_600x900.jpg",
+      "bytes": 82572
+    }
+  },
+  {
+    "key": "r6-siege-x",
+    "title": "Tom Clancy's Rainbow Six Siege X",
+    "appid": 359550,
+    "genre": "Shooter",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/359550/",
+    "steam_name": "Tom Clancy's Rainbow Six Siege",
+    "coming_soon": false,
+    "release_date": "1 Dec, 2015",
+    "type": "game",
+    "developers": [
+      "Ubisoft Montreal"
+    ],
+    "publishers": [
+      "Ubisoft"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/359550/library_600x900.jpg",
+      "bytes": 36989
+    }
+  },
+  {
+    "key": "stardew-valley",
+    "title": "Stardew Valley",
+    "appid": 413150,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/413150/",
+    "steam_name": "Stardew Valley",
+    "coming_soon": false,
+    "release_date": "26 Feb, 2016",
+    "type": "game",
+    "developers": [
+      "ConcernedApe"
+    ],
+    "publishers": [
+      "ConcernedApe"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/413150/library_600x900.jpg",
+      "bytes": 76943
+    }
+  },
+  {
+    "key": "subnautica",
+    "title": "Subnautica",
+    "appid": 264710,
+    "genre": "Adventure",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/264710/",
+    "steam_name": "Subnautica",
+    "coming_soon": false,
+    "release_date": "23 Jan, 2018",
+    "type": "game",
+    "developers": [
+      "Unknown Worlds Entertainment"
+    ],
+    "publishers": [
+      "Unknown Worlds Entertainment"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/264710/library_600x900.jpg",
+      "bytes": 67957
+    }
+  },
+  {
+    "key": "sons-of-the-forest",
+    "title": "Sons Of The Forest",
+    "appid": 1326470,
+    "genre": "Horror",
+    "platforms": [
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1326470/",
+    "steam_name": "Sons Of The Forest",
+    "coming_soon": false,
+    "release_date": "22 Feb, 2024",
+    "type": "game",
+    "developers": [
+      "Endnight Games Ltd"
+    ],
+    "publishers": [
+      "Newnight "
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1326470/library_600x900.jpg",
+      "bytes": 38458
+    }
+  },
+  {
+    "key": "ready-or-not",
+    "title": "Ready or Not",
+    "appid": 1144200,
+    "genre": "Shooter",
+    "platforms": [
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1144200/",
+    "steam_name": "Ready or Not",
+    "coming_soon": false,
+    "release_date": "13 Dec, 2023",
+    "type": "game",
+    "developers": [
+      "VOID Interactive"
+    ],
+    "publishers": [
+      "VOID Interactive"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1144200/library_600x900.jpg",
+      "bytes": 37939
+    }
+  },
+  {
+    "key": "hades-2",
+    "title": "Hades II",
+    "appid": 1145350,
+    "genre": "Action",
+    "platforms": [
+      "pc"
+    ],
+    "pc_store": "Steam",
+    "store_url": "https://store.steampowered.com/app/1145350/",
+    "steam_name": "Hades II",
+    "coming_soon": false,
+    "release_date": "25 Sep, 2025",
+    "type": "game",
+    "developers": [
+      "Supergiant Games"
+    ],
+    "publishers": [
+      "Supergiant Games"
+    ],
+    "cover": {
+      "url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1145350/library_600x900.jpg",
+      "bytes": 60402
+    }
+  }
+]

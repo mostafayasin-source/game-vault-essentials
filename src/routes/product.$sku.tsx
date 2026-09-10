@@ -104,6 +104,9 @@ function ProductPage() {
           <p className="mt-5 text-3xl font-bold text-primary">
             {formatPrice(product.price_minor)}
           </p>
+          <p className="text-xs text-muted-foreground">
+            Illustrative demo price — nothing is ever charged.
+          </p>
 
           <p
             className={`mt-2 inline-flex items-center gap-1.5 text-sm ${
@@ -121,6 +124,21 @@ function ProductPage() {
           <p className="mt-5 text-sm leading-relaxed text-muted-foreground">
             {product.description}
           </p>
+
+          {product.source_url && (
+            <p className="mt-4 text-xs text-muted-foreground">
+              Title, edition and cover artwork verified against the{" "}
+              <a
+                href={product.source_url}
+                target="_blank"
+                rel="noreferrer noopener"
+                className="underline hover:text-primary"
+              >
+                official store page
+              </a>
+              . Cover artwork © its publisher.
+            </p>
+          )}
 
           <dl className="mt-6 grid gap-4 rounded-xl surface-panel p-5 text-sm sm:grid-cols-2">
             <div>

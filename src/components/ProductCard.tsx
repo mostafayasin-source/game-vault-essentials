@@ -18,7 +18,12 @@ export function ProductCard({ product }: { product: Product }) {
         className="block"
         aria-label={`View ${product.title} for ${product.platform}`}
       >
-        <CoverImage coverUrl={product.cover_url} title={product.title} className="rounded-none" />
+        <CoverImage
+          coverUrl={product.cover_url}
+          title={product.title}
+          platformName={product.platform === "ps5" ? "PlayStation 5" : product.platform === "xbox" ? "Xbox Series X" : "PC"}
+          className="rounded-none"
+        />
       </Link>
 
       <div className="flex flex-1 flex-col gap-3 p-4">
@@ -39,8 +44,11 @@ export function ProductCard({ product }: { product: Product }) {
         <p className="text-xs text-muted-foreground">{product.genre}</p>
 
         <div className="mt-auto flex items-center justify-between gap-3 pt-2">
-          <span className="text-lg font-bold text-primary">
-            {formatPrice(product.price_minor)}
+          <span className="flex flex-col">
+            <span className="text-lg font-bold text-primary">
+              {formatPrice(product.price_minor)}
+            </span>
+            <span className="text-[11px] text-muted-foreground">Demo price</span>
           </span>
           <Button
             type="button"

@@ -47,6 +47,28 @@ function CartPage() {
   return (
     <div className="mx-auto w-full max-w-6xl px-4 py-10 sm:px-6">
       <h1 className="text-3xl font-bold tracking-tight">Your cart</h1>
+      <p className="mt-1 text-sm text-muted-foreground">
+        All prices are illustrative demo prices in Swedish kronor.
+      </p>
+
+      {cart.missingSkus.length > 0 && (
+        <div className="mt-6 rounded-xl border border-destructive/40 bg-destructive/10 p-4 text-sm">
+          <p className="font-semibold">Some items are no longer in the catalogue</p>
+          <p className="mt-1 text-muted-foreground">
+            {cart.missingSkus.length} older listing
+            {cart.missingSkus.length === 1 ? " has" : "s have"} been retired and cannot be bought:{" "}
+            {cart.missingSkus.join(", ")}.
+          </p>
+          <Button
+            type="button"
+            variant="outline"
+            className="mt-3"
+            onClick={() => cart.missingSkus.forEach((sku) => remove(sku))}
+          >
+            Remove retired items
+          </Button>
+        </div>
+      )}
 
       {cart.items.length === 0 ? (
         <div className="mt-8 flex flex-col items-center gap-4 rounded-xl surface-panel px-6 py-20 text-center">

@@ -59,6 +59,7 @@ def q(text: str) -> str:
 
 rows = []
 manifest = []
+json_rows = []
 for key, det in details.items():
     v = verified[key]
     cover_file = PROJECT / "src" / "assets" / "covers" / f"{key}.jpg.asset.json"
@@ -105,6 +106,25 @@ for key, det in details.items():
                 ]
             )
             + ")"
+        )
+        json_rows.append(
+            {
+                "sku": sku,
+                "title": title,
+                "platform": platform,
+                "format": fmt,
+                "price_minor": price_for(year, platform),
+                "cover_url": cover_url,
+                "cover_source_url": art_url,
+                "source_url": store_url,
+                "description": f"{desc} Released {year}.",
+                "compatibility": compat,
+                "genre": genre,
+                "available": True,
+                "max_quantity": 5,
+                "featured": (key in FEATURED and platform == "ps5") or (key in FEATURED and platform == "pc" and not det["disc_ps5"]),
+                "listed": True,
+            }
         )
         manifest.append(
             {
@@ -168,3 +188,5 @@ counts = {}
 for m in manifest:
     counts[m["platform"]] = counts.get(m["platform"], 0) + 1
 print("listings:", len(manifest), counts, "titles:", len(details))
+
+(ROOT / "catalogue-rows.json").write_text(json.dumps(json_rows, indent=1))
